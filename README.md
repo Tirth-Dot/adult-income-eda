@@ -119,17 +119,12 @@ adult-income-eda/
 
 ## 📊 Dataset Information
 
-**Source**: [UCI Machine Learning Repository – Adult Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
-
 **Features**: 14 attributes including age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country, and income
 
 **Target Variable**: Income (<=50K, >50K)
 
 **Dataset Size**: 32,561 instances
 
-### Citation
-
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 ---
 
