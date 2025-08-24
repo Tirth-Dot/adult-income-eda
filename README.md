@@ -28,29 +28,29 @@ adult-income-eda/
 ## 🔍 Key Steps in Analysis
 
 ### 🧹 Data Cleaning
-- **Missing Values**: Handled missing values in categorical columns (`workclass`, `occupation`, `native_country`)
-- **Data Standardization**: Standardized categorical variables and labels for consistency
-- **Data Quality Assessment**: Identified and addressed data inconsistencies
+• **Missing Values**: Handled missing values in categorical columns (workclass, occupation, native_country)
+• **Data Standardization**: Standardized categorical variables and labels for consistency
+• **Data Quality Assessment**: Identified and addressed data inconsistencies
 
 ### 📊 Exploratory Analysis
-- **Demographic Distributions**: Analysis of age, hours-per-week, education levels, and occupations
-- **Income Breakdown**: Detailed analysis of income distribution (<=50K vs >50K)
-- **Feature Relationships**: Investigated relationships between sex, education, occupation, and income
-- **Correlation Analysis**: Statistical analysis of numerical features and their interdependencies
+• **Demographic Distributions**: Analysis of age, hours-per-week, education levels, and occupations
+• **Income Breakdown**: Detailed analysis of income distribution (<=50K vs >50K)
+• **Feature Relationships**: Investigated relationships between sex, education, occupation, and income
+• **Correlation Analysis**: Statistical analysis of numerical features and their interdependencies
 
 ### 🎯 Key Findings
-- **Missing Data**: ~5.6% missing values identified in workclass and occupation columns
-- **Income Distribution**: Majority of individuals in the dataset earn <=50K annually
-- **Education Impact**: Higher education levels significantly increase the probability of >50K income
-- **Work Hours Correlation**: Increased working hours positively correlate with higher income brackets
-- **Occupational Influence**: Job type strongly affects income distribution patterns
+• **Missing Data**: ~5.6% missing values identified in workclass and occupation columns
+• **Income Distribution**: Majority of individuals in the dataset earn <=50K annually
+• **Education Impact**: Higher education levels significantly increase the probability of >50K income
+• **Work Hours Correlation**: Increased working hours positively correlate with higher income brackets
+• **Occupational Influence**: Job type strongly affects income distribution patterns
 
 ---
 
 ## 📈 Project Deliverables
 
 | Deliverable | Description | Location |
-|-------------|-------------|----------|
+|------------|-------------|----------|
 | **Power BI-Style Presentation** | Visual storytelling with KPIs, distributions, correlations, and actionable insights | `presentations/EDA Tirth Darji.pptx` |
 | **Jupyter Notebook** | Complete analysis with code, outputs, visualizations, and detailed explanations | `notebooks/EDAanalysis.ipynb` |
 | **Dataset** | Clean, processed Adult Income dataset ready for analysis | `data/Adult.csv` |
@@ -59,21 +59,22 @@ adult-income-eda/
 
 ## 🛠️ Tools & Technologies
 
-- **Programming Language**: Python 3.x
-- **Data Analysis**: pandas, numpy, scipy
-- **Visualization**: matplotlib, seaborn, plotly
-- **Environment**: Jupyter Notebook
-- **Presentation**: PowerPoint with Power BI design principles
-- **Version Control**: Git & GitHub
+• **Programming Language**: Python 3.x
+• **Data Analysis**: pandas, numpy, scipy
+• **Visualization**: matplotlib, seaborn, plotly
+• **Environment**: Jupyter Notebook
+• **Presentation**: PowerPoint with Power BI design principles
+• **Version Control**: Git & GitHub
 
 ---
 
 ## 🚀 How to Run
 
 ### Prerequisites
-- Python 3.7 or higher
-- Jupyter Notebook or JupyterLab
-- Git (for cloning)
+
+• **Python 3.7** or higher
+• **Jupyter Notebook** or JupyterLab
+• **Git** (for cloning)
 
 ### Setup Instructions
 
@@ -88,7 +89,7 @@ adult-income-eda/
    pip install -r requirements.txt
    ```
    
-   *Note: If `requirements.txt` is not available, install manually:*
+   *Note: If requirements.txt is not available, install manually:*
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter plotly
    ```
@@ -99,9 +100,9 @@ adult-income-eda/
    ```
 
 4. **Run the analysis**
-   - Execute all cells in the notebook
-   - Review outputs and visualizations
-   - Examine the generated insights
+   ◦ Execute all cells in the notebook
+   ◦ Review outputs and visualizations
+   ◦ Examine the generated insights
 
 ---
 
@@ -127,6 +128,7 @@ adult-income-eda/
 **Dataset Size**: 32,561 instances
 
 ### Citation
+
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 ---
@@ -139,9 +141,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Tirth Darji**  
+**Tirth Darji**
+  
 - GitHub: [@Tirth-Dot](https://github.com/Tirth-Dot)
-- LinkedIn: [Connect with me](https://linkedin.com/in/tirth-darji)
+- LinkedIn: [Connect with me](https://linkedin.com/in/tirth-darji-2b2a2b265)
 
 ---
 
